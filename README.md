@@ -1,7 +1,2 @@
-# blank-template
-Blank Template (no webpack).
-Just to  get basic folder structure ready.
-Update it accordingly when using it.
-
-
-Developed by Shaunak Basu / https://github.com/basushaunak
+# CV Builder Demo for The Odin Project
+A simple CV Builder project (SPA) as part of The Odin Project's React curriculum using React framework.
