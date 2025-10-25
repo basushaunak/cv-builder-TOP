@@ -1,0 +1,36 @@
+fieldset {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+legend {
+  font-weight: bold;
+  color: white;
+}
+
+button {
+  margin-top: 10px;
+  background: #bb4242;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+/* CSS for Form Component */
+/* form {
+  display: grid;
+  margin: 0;
+  grid-template-columns: 1fr 2fr;
+  gap: 1rem;
+  border: 1px orange solid;
+  margin-block: 1rem;
+}
+form > * {
+  margin: 0.5rem;
+  padding: 0;
+}
+form > input {
+  width: auto;
+} */

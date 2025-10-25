@@ -1,0 +1,22 @@
+.div-preview {
+  border: 2px solid #333;
+  padding: 20px;
+  border-radius: 10px;
+  background: #f9fafb;
+  color: black;
+}
+
+.btn-back {
+  margin-bottom: 15px;
+  background: none;
+  color: blue;
+  border: none;
+  /* padding: 6px 12px 6px 0px; */
+  border-radius: 4px;
+  cursor: pointer;
+  max-width: 15ch;
+}
+
+.user-name{
+    color:black;
+}

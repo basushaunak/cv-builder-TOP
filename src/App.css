@@ -1,10 +1,46 @@
-#root {
-  max-width: 1280px;
+.app {
+  /* max-width: 800px; */
+  background-color: #510303;
   margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+  padding: 20px;
+  /* margin-inline: auto; */
 }
 
+.btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  width: 15ch;
+  margin-inline: auto;
+}
+
+.btn-generate {
+  cursor: pointer;
+  background-color: #2563eb;
+  color: white;
+}
+
+.btn-nogenerate {
+  cursor: not-allowed;
+  background-color: #cbd5e1;
+  color: #666;
+}
+.msg {
+  color: #b91c1c;
+  margin-top: 8px;
+  font-size: 0.9em;
+}
+/* #root {
+  width:100vw;
+  height: 100vh;
+  background-color: #510303;
+  margin: auto;
+  padding: 0;
+  text-align: center;
+} */
+/*
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -39,4 +75,4 @@
 
 .read-the-docs {
   color: #888;
-}
+} */

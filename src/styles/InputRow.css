@@ -1,0 +1,15 @@
+div {
+  display: grid;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.btn-remove {
+  background: red;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 1.5em;
+}
