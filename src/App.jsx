@@ -82,7 +82,7 @@ export default function App() {
     return !isRowBlank(sectionData);
   };
 
-  // inside your component, derive booleans from current formData:
+  // Derive booleans from current formData:
   const personal = formData.personal || {};
   const work = formData.work || [];
   const education = formData.education || [];
